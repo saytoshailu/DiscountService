@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment.DiscountShop.Contracts\Assignment.DiscountShop.Contracts.csproj" />
+    <ProjectReference Include="..\Assignment.DiscountShop.Models\Assignment.DiscountShop.Models.csproj" />
+    <ProjectReference Include="..\Assignment.DiscountShop.Utilities\Assignment.DiscountShop.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
